@@ -1,3 +1,11 @@
+## Note to the reviewer
+
+The assignment has been done on a Windows 7 PC, with a French(Belgium) locale.
+As a consequence, the script produces plots with weekdays in French.
+So, the "jeu.", "ven.", "sam." that you'll see on the plots are just 
+the French translation of "Thu", "Fri" and "Sat" expected on a machine with
+an English-speaking locale.
+
 ## Introduction
 
 This assignment uses data from
